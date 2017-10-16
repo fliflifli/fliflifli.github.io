@@ -14,8 +14,11 @@
 + 크로스 브라우징
 
 ### 웹표준 (html)
-[link] [w3c]
+link [google][googlelink]
+[googlelink]: http
 [w3c]: http://w3.org
+
+[w3c](http://w3.org)
 #### 구조언어(html)
 ```
 
