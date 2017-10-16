@@ -23,3 +23,7 @@ link [google][googlelink]
 ```
 
 ```
+
+### img alt태그 이해
++ 의미없는 이미지의 경우 alt=""을 빼지 말고 빈값으로 놔둔다.
++ 
